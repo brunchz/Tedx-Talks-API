@@ -1,0 +1,22 @@
+{
+  "name": "tedx-talks-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunchz/Tedx-Talks-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunchz/Tedx-Talks-API/issues"
+  },
+  "homepage": "https://github.com/brunchz/Tedx-Talks-API#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
